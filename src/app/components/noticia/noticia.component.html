@@ -1,0 +1,8 @@
+<article>
+  <img src="./assets/img/img-default.png" *ngIf="!articulo.urlToImage">
+  <img #img width="300" src={{articulo.urlToImage}} alt="">
+  <h4 class="autor">{{articulo.source.name}}</h4>
+  <h2 class="titulo">{{articulo.title}}</h2>
+  <h3 class="titulo">{{articulo.description}}</h3>
+  <a color="primary" mat-stroked-button href={{articulo.url}} target="_blank">Ver noticia</a>
+</article>

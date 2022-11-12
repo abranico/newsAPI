@@ -1,0 +1,307 @@
+[
+  {
+
+    "englishShortName": "Argentina",
+    "frenchShortName": "Argentine (l')",
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG",
+    "numeric": 32
+  },
+  {
+
+    "englishShortName": "Australia",
+    "frenchShortName": "Australie (l')",
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "numeric": 36
+  },
+  {
+
+    "englishShortName": "Austria",
+    "frenchShortName": "Autriche (l')",
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT",
+    "numeric": 40
+  },
+  {
+
+    "englishShortName": "Belgium",
+    "frenchShortName": "Belgique (la)",
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL",
+    "numeric": 56
+  },
+  {
+
+    "englishShortName": "Brazil",
+    "frenchShortName": "Brésil (le)",
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "numeric": 76
+  },
+  {
+
+    "englishShortName": "Bulgaria",
+    "frenchShortName": "Bulgarie (la)",
+    "alpha2Code": "BG",
+    "alpha3Code": "BGR",
+    "numeric": 100
+  },
+  {
+
+    "englishShortName": "Canada",
+    "frenchShortName": "Canada (le)",
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "numeric": 124
+  },
+  {
+
+    "englishShortName": "China",
+    "frenchShortName": "Chine (la)",
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "numeric": 156
+  },
+  {
+
+    "englishShortName": "Colombia",
+    "frenchShortName": "Colombie (la)",
+    "alpha2Code": "CO",
+    "alpha3Code": "COL",
+    "numeric": 170
+  },
+  {
+
+    "englishShortName": "Cuba",
+    "frenchShortName": "Cuba",
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB",
+    "numeric": 192
+  },
+  {
+
+    "englishShortName": "Czechia",
+    "frenchShortName": "Tchéquie (la)",
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE",
+    "numeric": 203
+  },
+  {
+
+    "englishShortName": "Egypt",
+    "frenchShortName": "Égypte (l')",
+    "alpha2Code": "EG",
+    "alpha3Code": "EGY",
+    "numeric": 818
+  },
+  {
+
+    "englishShortName": "France",
+    "frenchShortName": "France (la)",
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "numeric": 250
+  },
+  {
+
+    "englishShortName": "Germany",
+    "frenchShortName": "Allemagne (l')",
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "numeric": 276
+  },
+  {
+
+    "englishShortName": "Greece",
+    "frenchShortName": "Grèce (la)",
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC",
+    "numeric": 300
+  },
+  {
+
+    "englishShortName": "Hong Kong",
+    "frenchShortName": "Hong Kong",
+    "alpha2Code": "HK",
+    "alpha3Code": "HKG",
+    "numeric": 344
+  },
+  {
+
+    "englishShortName": "Hungary",
+    "frenchShortName": "Hongrie (la)",
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN",
+    "numeric": 348
+  },
+  {
+
+    "englishShortName": "India",
+    "frenchShortName": "Inde (l')",
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "numeric": 356
+  },
+  {
+
+    "englishShortName": "Israel",
+    "frenchShortName": "Israël",
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR",
+    "numeric": 376
+  },
+  {
+
+    "englishShortName": "Italy",
+    "frenchShortName": "Italie (l')",
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "numeric": 380
+  },
+  {
+
+    "englishShortName": "Japan",
+    "frenchShortName": "Japon (le)",
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "numeric": 392
+  },
+  {
+
+    "englishShortName": "Korea (the Republic of)",
+    "frenchShortName": "Corée (la République de)",
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR",
+    "numeric": 410
+  },
+  {
+
+    "englishShortName": "Mexico",
+    "frenchShortName": "Mexique (le)",
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX",
+    "numeric": 484
+  },
+  {
+
+    "englishShortName": "Netherlands (the)",
+    "frenchShortName": "Pays-Bas (les)",
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "numeric": 528
+  },
+  {
+
+    "englishShortName": "New Zealand",
+    "frenchShortName": "Nouvelle-Zélande (la)",
+    "alpha2Code": "NZ",
+    "alpha3Code": "NZL",
+    "numeric": 554
+  },
+  {
+
+    "englishShortName": "Poland",
+    "frenchShortName": "Pologne (la)",
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "numeric": 616
+  },
+  {
+
+    "englishShortName": "Portugal",
+    "frenchShortName": "Portugal (le)",
+    "alpha2Code": "PT",
+    "alpha3Code": "PRT",
+    "numeric": 620
+  },
+  {
+
+    "englishShortName": "Romania",
+    "frenchShortName": "Roumanie (la)",
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU",
+    "numeric": 642
+  },
+  {
+
+    "englishShortName": "Russian Federation (the)",
+    "frenchShortName": "Russie (la Fédération de)",
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "numeric": 643
+  },
+  {
+
+    "englishShortName": "South Africa",
+    "frenchShortName": "Afrique du Sud (l')",
+    "alpha2Code": "ZA",
+    "alpha3Code": "ZAF",
+    "numeric": 710
+  },
+  {
+
+    "englishShortName": "Sweden",
+    "frenchShortName": "Suède (la)",
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE",
+    "numeric": 752
+  },
+  {
+
+    "englishShortName": "Switzerland",
+    "frenchShortName": "Suisse (la)",
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "numeric": 756
+  },
+  {
+
+    "englishShortName": "Thailand",
+    "frenchShortName": "Thaïlande (la)",
+    "alpha2Code": "TH",
+    "alpha3Code": "THA",
+    "numeric": 764
+  },
+  {
+
+    "englishShortName": "Turkey",
+    "frenchShortName": "Turquie (la)",
+    "alpha2Code": "TR",
+    "alpha3Code": "TUR",
+    "numeric": 792
+  },
+  {
+
+    "englishShortName": "Ukraine",
+    "frenchShortName": "Ukraine (l')",
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR",
+    "numeric": 804
+  },
+  {
+
+    "englishShortName": "United Arab Emirates (the)",
+    "frenchShortName": "Émirats arabes unis (les)",
+    "alpha2Code": "AE",
+    "alpha3Code": "ARE",
+    "numeric": 784
+  },
+  {
+
+    "englishShortName": "United States of America (the)",
+    "frenchShortName": "États-Unis 'Amérique (les)",
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "numeric": 840
+  },
+  {
+
+    "englishShortName": "Venezuela (Bolivarian Republic of)",
+    "frenchShortName": "Venezuela (République bolivarienne du)",
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN",
+    "numeric": 862
+  }
+]
+
